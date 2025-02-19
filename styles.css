@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+.container{
+	width: 400px;
+	height: 550px;
+	box-sizing: border-box;
+	background-color: lightgray;
+	padding: 60px 50px;
+	text-align: center;
+	box-shadow: 5px 5px 5px gray;
+}
+
+button{
+	background-color: orangered;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+}
